@@ -49,10 +49,12 @@ I’m usually in the office by 7:00am.  I leave the office at 4:00pm.  I do this
 
 My calendar might look full, but if you need to talk to me, crash my calendar and I will try and make time for you.   I do reserve time on the calendar for “thinking and creating” 
 
-## My random facts:  I lived in Bermuda for 10 years.  I produced and performed in a viral rap song / video.  I built a custom retro arcade machine using a table saw, router, and raspberry pi.  I hiked in Zion National Park by myself for 3 days.  I highly recommend it.
+## My random facts: 
+I lived in Bermuda for 10 years.  I produced and performed in a viral rap song / video.  I built a custom retro arcade machine using a table saw, router, and raspberry pi.  I hiked in Zion National Park by myself for 3 days.  I highly recommend it.
 
 ---
 
 Thank you for investing your time in me and our success by reading this document.
-Jason
+
+-Jason
  
