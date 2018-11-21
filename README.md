@@ -31,10 +31,11 @@ I’ve had the privilege of working as a software practitioner across of variety
 3. Analytical Sense:  The ability to frame the right questions, evaluate multiple facets of a problem, derive solutions, and simulate possible outcomes based on available data and anecdotes. 
  
 ## My communication style:  
-I am an ambivert.  I am comfortable speaking in front of large groups but also need to withdraw into a focus room to recharge at times.  
+I am an ambivert.  I am comfortable speaking in front of large groups but also need to withdraw into a focus room to recharge at times.
+
 I prefer the following hierarchy of communication:  Face to Face > Video Conference > Slack/Hipchat > Email 
 
-My favourite environment is sitting with a team, where we can discuss and share what we’re doing, argue about the real problem and attack it through a combination of software, people and process.
+My favorite environment is sitting with a team, where we can discuss and share what we’re doing, argue about the real problem and attack it through a combination of software, people and process.
 
 If you want to reach me via Slack / Hipchat, please provide as much context as possible in your initial ping so I can triage accordingly.  Pinging me with “Hey got a minute?” doesn’t really help.
 
