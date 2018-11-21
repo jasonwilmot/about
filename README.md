@@ -42,7 +42,7 @@ If you want to reach me via Slack / Hipchat, please provide as much context as p
 I’m not a big fan of emails, especially “ping-pong” email chains. If I do use email, I try to include artifacts with URLs ( e.g. Google docs / Dropbox ). I aim to create shared artifacts rather than ephemeral email threads.  I respond best to email when it contains quick and easy requests.   If I need someone’s attention on something with a high level of urgency, I won’t be expecting someone to find that out by checking their email.
 
 ## My preferred rituals: 
-I believe regular stand ups and demos are essential to keeping the product moving forward.  I believe standups are effective when we place the focus on the baton and not the runners.  The stories should do the talking.  In an ideal environment, there are more than just the PM and engineers in a stand up.  I’d prefer it includes all of the core stakeholders of the product.  
+I believe regular stand ups and demos are essential to keeping the product moving forward.  I believe standups are effective when we place the focus on the baton and not the runners.  The stories should do the talking.  In an ideal environment, there are more than just the PM and engineers in a stand up.  I’d prefer it include all core contributors of the product.  
 
 Demos are not only for showing off shiny UX.  It’s valuable for myself and the team to see the new API in Postman or the new piece of sales collateral.  I believe demos are the best way to drive progress, collaborate, celebrate, socialize and pressure test solutions to problems at any level of abstraction in any part of the product.
  
