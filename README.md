@@ -1,4 +1,5 @@
-#jasonwilmot.README ( 4 minute read )
+# jasonwilmot.README ( 4 minute read )
+
 I’m Jason Wilmot.  Smarter people than me started creating these README documents to help codify their working principles and accelerate the health and value of their working relationships.  I always listen to, learn from and emulate smart people, so this is my README.  
  
 ## My Philosophy
@@ -31,19 +32,24 @@ I’ve had the privilege of working as a software practitioner across of variety
  
 ## My communication style:  
 I am an ambivert.  I am comfortable speaking in front of large groups but also need to withdraw into a focus room to recharge at times.  
-I prefer the following hierarchy of communication:  Face to Face > Video Conference > Slack/Hipchat > Email  
+I prefer the following hierarchy of communication:  Face to Face > Video Conference > Slack/Hipchat > Email 
+
 My favourite environment is sitting with a team, where we can discuss and share what we’re doing, argue about the real problem and attack it through a combination of software, people and process.
+
 If you want to reach me via Slack / Hipchat, please provide as much context as possible in your initial ping so I can triage accordingly.  Pinging me with “Hey got a minute?” doesn’t really help.
+
 I’m not a big fan of emails, especially “ping-pong” email chains. If I do use email, I try to include artifacts with URLs ( e.g. Google docs / Dropbox ). I aim to create shared artifacts rather than ephemeral email threads.  I respond best to email when it contains quick and easy requests.   If I need someone’s attention on something with a high level of urgency, I won’t be expecting someone to find that out by checking their email.
+
 My preferred rituals: I believe regular stand ups and demos are essential to keeping the product moving forward.  I believe standups are effective when we place the focus on the baton and not the runners.  The stories should do the talking.  In an ideal environment, there are more than just the PM and engineers in a stand up.  I’d prefer it includes all of the core stakeholders of the product.  
+
 Demos are not only for showing off shiny UX.  It’s valuable for myself and the team to see the new API in Postman or the new piece of sales collateral.  I believe demos are the best way to drive progress, collaborate, celebrate, socialize and pressure test solutions to problems at any level of abstraction in any part of the product.
  
-##My schedule:    
+## My schedule:    
 I’m usually in the office by 7:00am.  I leave the office at 4:00pm.  I do this because traffic is a waste of time for myself and the company and it works with my personal commitments.   I don’t like to read messages outside of 7 - 4, but if something is urgent and important, I hope I am notified via SMS so I can help.  
 
 My calendar might look full, but if you need to talk to me, crash my calendar and I will try and make time for you.   I do reserve time on the calendar for “thinking and creating” 
 
-#My random facts:  I lived in Bermuda for 10 years.  I produced and performed in a viral rap song / video.  I built a custom retro arcade machine using a table saw, router, and raspberry pi.  I hiked in Zion National Park by myself for 3 days.  I highly recommend it.
+## My random facts:  I lived in Bermuda for 10 years.  I produced and performed in a viral rap song / video.  I built a custom retro arcade machine using a table saw, router, and raspberry pi.  I hiked in Zion National Park by myself for 3 days.  I highly recommend it.
 
 ---
 
