@@ -53,7 +53,7 @@ I lived in Bermuda for 10 years.  I produced and performed in a viral rap song /
 
 ---
 
-Thank you for investing your time in me and our success by reading this document.
+Thanks for reading this document.
 
 -Jason
  
